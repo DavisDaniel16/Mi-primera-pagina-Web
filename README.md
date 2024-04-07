@@ -1,2 +1,3 @@
 # Mi-primera-pagina-Web
-Esta pag web es el primero de muchos que voy hacer
+Esta pag web es el primero de muchos proyectos
+que estoy dispuesto a hacer
